@@ -1,0 +1,7 @@
+C:\Users\Cem\source\repos\Asansor_Kontrolu_Multithreading\Asansor_Kontrolu_Multithreading\bin\Debug\Asansor_Kontrolu_Multithreading.exe.config
+C:\Users\Cem\source\repos\Asansor_Kontrolu_Multithreading\Asansor_Kontrolu_Multithreading\bin\Debug\Asansor_Kontrolu_Multithreading.exe
+C:\Users\Cem\source\repos\Asansor_Kontrolu_Multithreading\Asansor_Kontrolu_Multithreading\bin\Debug\Asansor_Kontrolu_Multithreading.pdb
+C:\Users\Cem\source\repos\Asansor_Kontrolu_Multithreading\Asansor_Kontrolu_Multithreading\obj\Debug\Asansor_Kontrolu_Multithreading.csprojAssemblyReference.cache
+C:\Users\Cem\source\repos\Asansor_Kontrolu_Multithreading\Asansor_Kontrolu_Multithreading\obj\Debug\Asansor_Kontrolu_Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\Cem\source\repos\Asansor_Kontrolu_Multithreading\Asansor_Kontrolu_Multithreading\obj\Debug\Asansor_Kontrolu_Multithreading.exe
+C:\Users\Cem\source\repos\Asansor_Kontrolu_Multithreading\Asansor_Kontrolu_Multithreading\obj\Debug\Asansor_Kontrolu_Multithreading.pdb
